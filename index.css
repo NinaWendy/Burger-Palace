@@ -1,0 +1,323 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: cover;
+    font-family: poppins;
+
+}
+
+.clip-art {
+    width: 4%;
+    height: auto;
+}
+
+nav {
+    padding: 0;
+    height: fit-content;
+}
+
+.logo {
+    text-decoration-line: none;
+    font-weight: bolder;
+    color: black;
+    font-size: 2.5em;
+    font-style: oblique;
+    font-family: "cursive";
+    justify-content: left;
+}
+
+.primary-nav {
+    display: flex;
+    color: black;
+    justify-content: right;
+    text-decoration-style: none;
+    font-weight: bold;
+    padding-top: 2em;
+    padding-bottom: -6em;
+    height: 2em;
+    word-spacing: 2.5em;
+    font-size: 1.5em;
+}
+a:hover{
+    text-decoration-line: underline;
+    text-decoration-color: darkorange;
+    text-decoration-thickness: 0.4em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    padding: 3em 2em;
+}
+.effect{
+    height: 100vh;
+    background-image:linear-gradient(115deg,transparent 50%,#F6B400 50%);
+}
+h1 {
+    font-size: 2.5em;
+    line-height: 1.3em;
+    margin-top: 0.2em;
+}
+
+p {
+    line-height: 1em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+.truck{
+    width: 40%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    
+}
+.order {
+    background-color:darkorange;
+    color: rgb(248, 246, 246);
+    text-decoration: none;
+    padding: 0.6em 1.3em;
+    font-size: 1.4em;
+    border-radius: 5em;
+    border-left: 5em;
+    display: left;
+}
+.right {
+    width: 27%;
+    display: flex;
+    float: right;
+    position: relative;
+
+}
+.juice{
+    padding:0;
+    width: 30%;
+}
+
+.preview-section {
+    text-align: center;
+    padding: 3em 1em;
+    width: 95%;
+    margin: 0em 0em 0em 2em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blocks {
+    border: 1px solid lightgray;
+    border-radius: 1em;
+    display: grid;
+    text-align: center;
+    font-size: 0.8em;
+    align-content: space-between;
+    padding: 2em 2em 2em 2em;
+    
+
+}
+
+.left-pane {
+    width: 50%;
+    height: available;
+    float: left;
+    margin-right: 2em;
+    height: 50%;
+    padding-left: 10em 5em 5em 10em;
+
+
+}
+
+.middle-pane {
+    width: 50%;
+    height: available;
+    float: center;
+    height: 80%;
+    margin-right: 2em;
+    padding-left: 10em 5em 5em 10em;
+}
+
+.right-pane {
+    width: 50%;
+    height: available;
+    float: right;
+    height: 50%;
+    margin-right: 2em;
+    padding-left: 10em 5em 5em 10em;
+
+}
+.amount{
+    font-size: 1.5em;
+    
+}
+.container {
+    display: grid;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+ul li a {
+    padding: 1.6rem;
+    font-weight: bold;
+}
+
+h4 {
+    text-align: center;
+    font-size: 2em;
+    text-decoration-line: underline;
+    text-decoration-thickness: 0.2em;
+    text-decoration-color: darkorange;
+}
+
+.container {
+    display: grid;
+    width: 90vw;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+.burgers {
+    width: 95%;
+    height: auto;
+    padding-top: 1em;
+}
+
+.yummy {
+    
+    border: 1px solid lightgray;
+    border-radius: 4em;
+    margin-right: 2em;
+    text-align: center;
+    font-size: 0.8em;
+    box-shadow:2px 2px lightgray;
+    
+}
+.preview-section,.features-section{
+    background-color: rgb(242, 247, 242);
+}
+
+h5 {
+    text-align: center;
+    color: saddlebrown;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    
+    }
+.cart{
+    width: 25%;
+    border: 1px solid lightgray;
+    border-radius: 1.5em;
+}
+.img-burger{
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: scroll;
+    /*background-image: url("/Burger Palace/");*/
+}
+.download-platform{
+    width: 10%;
+}
+.yummy{
+    padding: 2em 2em 2em 2em;
+}
+.container6{
+    padding-top: 1em 1em;
+}
+.features-section{
+display: flex;
+justify-content: space-between;
+}
+.mobile-app {
+    background-color: rgb(233, 180, 6);
+    color: black;
+    display: grid;
+}
+.small{
+    width: 30%;
+}
+h3 {
+    font-size: 1.7em;
+    font-weight: bold;
+    padding-top: 10px;
+    
+}
+
+.right-side {
+    float:right;
+    justify-content: space-between;
+    display: flex;
+    gap: 2rem;
+}
+
+h6 {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.contact-section {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 1rem 0rem 1rem 3rem;
+}
+.clip-arts{
+    width: 40%;
+    height: auto;
+}
+.start{
+    display: flex;
+    align-items: center;    
+}
+
+.mid > ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 0.5em;
+}
+
+.subscribe {
+    background-color: darkorange;
+    color: white;
+    text-decoration: none;
+    padding: 0.6em 1.3em;
+    font-size: 1em;
+    display: right;
+}
+.social{
+    width: 50%;
+}
+.footer-section{
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+   padding-left: 3em;
+   padding-bottom: 0.5em;
+   font-weight: bold;
+   font-size:0.7em;
+   
+}
