@@ -229,15 +229,14 @@ img {
     border: 1px solid lightgray;
     border-radius: 1.5em;
 }
+.three-dots{
+    width: 10%;
+}
 .img-burger{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin: 0;
     position: relative;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-attachment: scroll;
-    background-image: url("Burger Palace/double-check2.png");
 }
 .download-platform{
     width: 10%;
