@@ -54,6 +54,21 @@ ul {
     text-decoration: none;
     color: black;
 }
+ul {
+    list-style: none;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+ul li a {
+    padding: 1.6rem;
+    font-weight: bold;
+}
+
 
 section {
     padding: 3em 2em;
@@ -158,21 +173,6 @@ p {
 .container {
     display: grid;
 
-}
-
-ul {
-    list-style: none;
-    display: flex;
-}
-
-a {
-    text-decoration: none;
-    color: black
-}
-
-ul li a {
-    padding: 1.6rem;
-    font-weight: bold;
 }
 
 h4 {
