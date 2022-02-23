@@ -36,5 +36,5 @@ Copyright (c) 2022 [click to view License](LICENSE)
 Linked-[Wendy Nina]
 (https://www.linkedin.com/in/wendy-nina-616559196/)
 
-### Link to live site (https://ninawendy.github.io/Burger-Palace/)
+##### Link to live site (https://ninawendy.github.io/Burger-Palace/)
 [Go Back to the top](#Burger_Palace)
