@@ -1,7 +1,6 @@
-# Portfolio
+# Burger_Palace
 
 #### By Wendy Nina
-### It is a description of my resume.
 
 ## Table of Content
 
@@ -20,7 +19,7 @@ Make sure you have access to internet
 Click on the live link in the about section
 ### Installation Process
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Burger_Palace)
 ## Technology Used
 HTNL - which was used to build the structure of the pages.
 
@@ -29,7 +28,7 @@ HTNL - which was used to build the structure of the pages.
 ## Reference
 Materialize CSS
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Burger_Palace)
 # License
 Copyright (c) 2022 [click to view License](LICENSE)
 
@@ -37,4 +36,5 @@ Copyright (c) 2022 [click to view License](LICENSE)
 Linked-[Wendy Nina]
 (https://www.linkedin.com/in/wendy-nina-616559196/)
 
-[Go Back to the top](#portfolio)
+# Link to live site (https://ninawendy.github.io/Burger-Palace/)
+[Go Back to the top](#Burger_Palace)
